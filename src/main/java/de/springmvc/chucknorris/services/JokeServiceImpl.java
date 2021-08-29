@@ -8,7 +8,7 @@ public class JokeServiceImpl implements JokeService {
 
     ChuckNorrisQuotes chuckNorrisQuotes;
 
-    // Here no dependecy injection because we are using a third-party library.
+    // Here no dependency injection because we are using a third-party library.
     public JokeServiceImpl() {
         this.chuckNorrisQuotes = new ChuckNorrisQuotes();
     }
