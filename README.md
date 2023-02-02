@@ -1,7 +1,5 @@
 # chuck-norris
 
-It is deployed on heroku: https://c-n-jokes.herokuapp.com
-
 ## A Spring Boot Web Application that displays random Chuck Norris jokes
 
 It is a Spring MVC Application with Thymeleaf.
